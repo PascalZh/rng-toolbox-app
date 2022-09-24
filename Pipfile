@@ -1,0 +1,17 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+bitarray = "*"
+matplotlib = "*"
+numpy = "*"
+pyqt5 = "~=5.15"
+termcolor = "*"
+statsmodels = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
